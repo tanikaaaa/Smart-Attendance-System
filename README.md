@@ -1,6 +1,6 @@
 # Smart Attendance System
 
-A web-based attendance management system that uses QR codes for efficient attendance tracking. The system supports three user roles: Students, Teachers, and Administrators.
+A web-based attendance management system that uses QR code for efficient attendance tracking. The system supports three user roles: Students, Teachers, and Administrators.
 
 ## Tech Stack
 
