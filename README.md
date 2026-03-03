@@ -1,20 +1,13 @@
 # 📲 Smart Attendance System – QR Based
 
 A full-stack web-based attendance management system that uses dynamic QR codes for fast, secure, and contactless attendance tracking.
-
 The system supports three user roles — **Students, Teachers, and Administrators** — with dedicated dashboards and role-based access control.
 
----
 
 ## 🚀 Overview
 
-Smart Attendance System replaces manual roll calls with QR-based verification.
+Smart Attendance System replaces manual roll calls with QR-based verification. Teachers generate session-specific QR codes, and students scan them to mark attendance instantly. Attendance records are stored securely and can be monitored in real time. The system ensures efficiency, prevents proxy attendance, and provides structured attendance reports.
 
-Teachers generate session-specific QR codes, and students scan them to mark attendance instantly. Attendance records are stored securely and can be monitored in real time.
-
-The system ensures efficiency, prevents proxy attendance, and provides structured attendance reports.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -28,11 +21,10 @@ The system ensures efficiency, prevents proxy attendance, and provides structure
 - Node.js
 - Express 5
 - MongoDB
-- Mongoose
 - JWT Authentication
 - QR Code Generation
 
----
+
 
 ## 🌟 Core Features
 
@@ -59,7 +51,7 @@ The system ensures efficiency, prevents proxy attendance, and provides structure
 - Automatic refresh of attendance data  
 - Instant session validation  
 
----
+
 
 ## ⚙️ Installation
 
@@ -70,7 +62,6 @@ git clone <repository-url>
 cd "SE Project"
 ```
 
----
 
 ### 2️⃣ Backend Setup
 
@@ -87,7 +78,7 @@ PORT=4000
 JWT_SECRET=your-secret-key
 ```
 
----
+
 
 ### 3️⃣ Frontend Setup
 
@@ -127,7 +118,6 @@ Frontend runs on:
 http://localhost:5173
 ```
 
----
 
 ## 👨‍💻 How It Works
 
@@ -193,10 +183,6 @@ SE Project/
 - Analytics dashboard with charts  
 - Mobile app integration  
 - QR expiration timer with dynamic regeneration  
-
-## Demo
-![Attendance Register](Attendance-register.jpeg)
-![Teacher Dashboard](Teacher-Dashboard.jpeg)
 
 
 
