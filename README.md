@@ -87,7 +87,7 @@ cd ../frontend
 npm install
 ```
 
----
+
 
 ## ▶️ Running the Application
 
@@ -128,7 +128,7 @@ http://localhost:5173
 5. Students scan QR to mark attendance  
 6. Attendance is stored with timestamp in MongoDB  
 
----
+
 
 ## 📂 Project Structure
 
@@ -164,7 +164,7 @@ SE Project/
 ![Attendance Register](Attendance-register.jpeg)
 ![Teacher Dashboard](Teacher-Dashboard.jpeg)
 
----
+
 
 ## 🎯 Problem It Solves
 
@@ -174,7 +174,7 @@ SE Project/
 - Provides structured digital records  
 - Enables contactless verification  
 
----
+
 
 ## 🔮 Future Enhancements
 
