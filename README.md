@@ -1,7 +1,7 @@
 # 📲 Smart Attendance System – QR Based
 
 A full-stack web-based attendance management system that uses dynamic QR codes for fast, secure, and contactless attendance tracking.
-The system supports three user roles — **Students, Teachers, and Administrators** — with dedicated dashboards and role-based access control.
+The system supports three user roles - **Students, Teachers, and Administrators** - with dedicated dashboards and role-based access control.
 
 
 ## 🚀 Overview
